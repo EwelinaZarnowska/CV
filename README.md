@@ -2,12 +2,13 @@
 
 ## Table of Contests
 * [About](#about)
-* [Portfolio Projects](#PortfolioProjects)
+* [Portfolio Projects](#Portfolio-Projects)
   * Excel
-    * Excel Project Dataset
+    * [Excel Project Dataset]
   * SQL
-    * COVID Portfolio Project
+    * [COVID Portfolio Project]
     * Nashville Housing Data
+* [Certificates](#Certificates)  
    
 
 ## About
@@ -16,4 +17,8 @@ Hello, I'm Ewelina! I have always enjoyed solving puzzles and logic problems. Ev
 In my free time, aside from enjoying exploring new data analysis tools and techniques, I read crime books and listen to true crime podcasts. Every time, I carefully analyze a story and deduce who the offender is, so I can say that I am also practicing analysis. Additionally, I play computer games, especially indie and logic games, and I engage in crafting with yarn.
 
 ## Portfolio Projects
-  
+### Excel Project Dataset
+### COVID Portfolio Project
+### Nashville Housing Data
+
+## Certficates
