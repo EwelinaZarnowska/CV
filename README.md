@@ -38,3 +38,4 @@ In this section, you can find my projects, which I created for exercise, to show
 **Technologies:** SQL Server
 
 ## Certficates
+* [Python X](https://github.com/EwelinaZarnowska/Certificates/blob/main/CodingX%20-%20Python%20X.jpg) (Dec 2023)
