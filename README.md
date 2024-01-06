@@ -20,21 +20,21 @@ Welcome to my Portfolio!
 ## Portfolio Projects
 In this section, you can find my projects, which I created for exercise, to showcase and present my skills.
 ### Excel Project Dataset
-**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)**
-**Description:**
-**Skills:** remove duplicates, find and replace, value if false, pivot tables, create charts, building the dashboard
-**Technologies:** Excel
+**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)** <br/>
+**Description:** <br/>
+**Skills:** remove duplicates, find and replace, value if false, pivot tables, create charts, building the dashboard <br/>
+**Technologies:** Excel <br/>
 
 ### COVID Portfolio Project
-**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)**
-**Description:**
-**Skills:** data retrieval, data analysis, grouping and aggregation, sorting and ordering, temporary tables, CTE
-**Technologies:** SQL Server
+**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)** <br/>
+**Description:** <br/>
+**Skills:** data retrieval, data analysis, grouping and aggregation, sorting and ordering, temporary tables, CTE <br/>
+**Technologies:** SQL Server <br/>
 
 ### Nashville Housing Data
-**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.sql)**
-**Description:**
-**Skills:** data cleaning, data transformation, sql quering, database schema modification, ordering and filtering, counting and aggregation
+**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.sql)** <br/>
+**Description:** <br/>
+**Skills:** data cleaning, data transformation, sql quering, database schema modification, ordering and filtering, counting and aggregation <br/>
 **Technologies:** SQL Server
 
 ## Certficates
