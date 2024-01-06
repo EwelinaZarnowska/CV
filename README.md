@@ -20,20 +20,20 @@ Welcome to my Portfolio!
 ## Portfolio Projects
 In this section, you can find my projects, which I created for exercise, to showcase and present my skills.
 ### Excel Project Dataset
-**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)** <br/>
-**Description:** <br/>
+**The code** is [here](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql) <br/>
+**Description:** The dataset contains data from bike buyers. <br/>
 **Skills:** remove duplicates, find and replace, value if false, pivot tables, create charts, building the dashboard <br/>
 **Technologies:** Excel <br/>
 
 ### COVID Portfolio Project
-**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)** <br/>
-**Description:** <br/>
+**The code** is [here](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql) <br/>
+**Description:** The dataset contains records of COVID-19 cases, deaths and vaccine records by country in 2020-2023. <br/>
 **Skills:** data retrieval, data analysis, grouping and aggregation, sorting and ordering, temporary tables, CTE <br/>
 **Technologies:** SQL Server <br/>
 
 ### Nashville Housing Data
-**The code is [_here_](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.sql)** <br/>
-**Description:** <br/>
+**The code** is [here](https://github.com/EwelinaZarnowska/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.sql) <br/>
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. <br/>
 **Skills:** data cleaning, data transformation, sql quering, database schema modification, ordering and filtering, counting and aggregation <br/>
 **Technologies:** SQL Server
 
