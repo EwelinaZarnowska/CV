@@ -15,6 +15,7 @@ Welcome to my Portfolio!
   * SQL
     * [COVID Portfolio Project](#COVID-Portfolio-Project)
     * [Nashville Housing Data](#Nashville-Housing-Data)
+  * Tableau - go to [my tableau](https://public.tableau.com/app/profile/ewelina.zarnowska/vizzes)
 * [Certificates](#Certificates)  
 
 ## Portfolio Projects
