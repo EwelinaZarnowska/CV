@@ -42,3 +42,4 @@ In this section, you can find my projects, which I created for exercise, to show
 
 ## Certficates
 * [Python X](https://github.com/EwelinaZarnowska/Certificates/blob/main/CodingX%20-%20Python%20X.jpg) (Dec 2023)
+* [Data Analytics Bootcamp](https://github.com/EwelinaZarnowska/Certificates/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png) (Jan 2024)
