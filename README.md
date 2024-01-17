@@ -17,6 +17,7 @@ Welcome to my Portfolio!
     * [Nashville Housing Data](#Nashville-Housing-Data)
   * Tableau - go to [my tableau](https://public.tableau.com/app/profile/ewelina.zarnowska/vizzes)
   * Power BI
+  * Python + Pandas
 * [Certificates](#Certificates)  
 
 ## Portfolio Projects
